@@ -14,15 +14,15 @@ keywords: GitHub, Markdown, Vscode
 
 ## 学习成果
 ### 任务①：博客搭建与GitHub的初接触
-![]()
+![](/images/blog/0.0.png)
 ### 任务②：vscode安装配置与代码自测
 
 
-#### 井字棋测试结果
+#### 1、井字棋测试结果
 
 ![](/images/blog/1.2.png) ![](/images/blog/1.3.png)
 
-#### C++环境测试
+#### 2、C++环境测试
 ##### 冒泡排序测试代码：
 ```c++
 #include <iostream>
@@ -54,8 +54,8 @@ int main() {
 }
 ```
 ##### 测试结果：
-![]()
-#### 其他语言测试：
+![](/images/blog/1.0.png)
+#### 3、其他语言测试：
 ##### python绘制图表代码：
 ```Python
 import numpy as np
@@ -98,7 +98,7 @@ plt.show()
 
 ![](/images/blog/1.1.png)
 ### 任务③：从零入门CPU部署大模型&应用开发
-#### 创建Agent
+#### 1、创建Agent
 ##### 智谱清言智能体链接：
 https://chatglm.cn/main/gdetail/66f7ef5c81047b45dcf07ea2?lang=zh
 
@@ -107,7 +107,7 @@ https://chatglm.cn/main/gdetail/66f7ef5c81047b45dcf07ea2?lang=zh
 ![](/images/blog/2.2.png)
 ![](/images/blog/2.3.png)
 ![](/images/blog/2.4.png)
-#### CPU大模型搭建结果
+#### 2、CPU大模型搭建结果
 ##### 流式输出:
 ![](/images/blog/2.5.png)
 ##### 构建简单 Gradio 前后端应用:
