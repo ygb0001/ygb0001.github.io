@@ -44,7 +44,7 @@ int main() {
 }
 ```
 #### 测试结果：
-![](https://gitee.com/YGB001/my-pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-03%20155426.png)
+![](/images/blog/1.0.png)
 
 ### 井字棋测试代码结果：
 
@@ -93,20 +93,20 @@ plt.show()
 ```
 #### 测试结果：
 
-![](https://gitee.com/YGB001/my-pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-03%20160315.png)
+![](/images/blog/1.1.png)
 ## 任务③：从零入门CPU部署大模型&应用开发
 ### 智谱清言智能体链接：
 https://chatglm.cn/main/gdetail/66f7ef5c81047b45dcf07ea2?lang=zh
 
 #### 智能体相关配置如下：
-![](https://gitee.com/YGB001/my-pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-03%20163121.png)
-![](https://gitee.com/YGB001/my-pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-03%20163145.png)
-![](https://gitee.com/YGB001/my-pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-03%20165013.png)
-![](https://gitee.com/YGB001/my-pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-03%20165027.png)
+![](/images/blog/2.1.png)
+![](/images/blog/2.2.png)
+![](/images/blog/2.3.png)
+![](/images/blog/2.4.png)
 ### CPU大模型搭建结果：
 #### 流式输出:
-![](https://gitee.com/YGB001/my-pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-03%20163824.png)
+![](/images/blog/2.5.png)
 #### 构建简单 Gradio 前后端应用:
-![](https://gitee.com/YGB001/my-pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-03%20164137.png)
+![](/images/blog/2.6.png)
 #### 构建Streamlit 应用:
-![](https://gitee.com/YGB001/my-pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-03%20164356.png)
+![](/images/blog/2.7.png)
