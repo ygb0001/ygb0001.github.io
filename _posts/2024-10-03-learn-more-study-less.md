@@ -5,13 +5,20 @@ categories: Blog
 description: 展示ifLab新生训练营的学习成果
 keywords: GitHub, Markdown, Vscode
 ---
-通过这一周多的的学习，我在各位导师的指导下，学习到了不少有用的知识，收获颇多，以下是我在这段时间的的学习成果。
 
+
+通过这一周多的的学习，我在各位导师的指导下，学习到了不少有用的知识，收获颇多，以下是我在这段时间的学习学习感悟和成果。
+
+## 学习感悟
 
 ## 任务①：博客搭建与GitHub的初接触
-经过各位导师的细心指导，我初步了解了Github的使用，并成功通过Github搭建了自己的博客。在这一过程中，我还学会了如何使用Markdown来编写博客文章并将该文章上传到Github上。这篇博客即为我在这一阶段的学习成果。
+
 ## 任务②：vscode安装配置与代码自测
-在这一阶段，虽然我之前已经使用过vscode并且配好了相应的C++环境，但对Vscode的使用并不熟练。经过这一阶段的学习，加深了我使用vscode的熟练程度，以下即为我在Vscode中的代码自测结果。
+
+
+### 井字棋测试代码结果：
+
+![](/images/blog/1.2.png) ![](/images/blog/1.3.png)
 
 ### C++测试代码：
 ```c++
@@ -43,8 +50,6 @@ int main() {
 
 }
 ```
-#### 测试结果：
-![](/images/blog/1.0.png)
 
 ### 井字棋测试代码结果：
 
@@ -57,7 +62,6 @@ import matplotlib.pyplot as plt
 from pylab import mpl 
 # 设置字体属性，确保在生成的图像中能够正常显示中文
 mpl.rcParams['font.sans-serif'] = ['SimHei']        # 指定默认字体为黑体
-# rcParams['font.sans-serif'] = ['SimSun']            #【若电脑上没有黑体，可指定默认字体为宋体】
 mpl.rcParams['axes.unicode_minus'] = False      # 解决将负号'-'显示为方块的问题
 years = np.arange(2011, 2024)
 beijing_gdp = [17188.8, 19024.7, 21134.6, 22926, 24779.1, 27041.2, 
