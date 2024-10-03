@@ -48,9 +48,7 @@ int main() {
 
 ### 井字棋测试代码结果：
 
-<video width="320" height="240" controls>
-    <source src="/images/video/井字棋.mp4" type="video/mp4">
-</video>
+![](/images/blog/1.2.png) ![](/images/blog/1.3.png)
 
 ### pyhon测试代码：
 ```Python
