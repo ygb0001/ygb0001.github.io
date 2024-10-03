@@ -49,7 +49,7 @@ int main() {
 ### 井字棋测试代码结果：
 
 <video width="320" height="240" controls>
-    <source src="井字棋.mp4" type="video/mp4">
+    <source src="/images/video/井字棋.mp4" type="video/mp4">
 </video>
 
 ### pyhon测试代码：
