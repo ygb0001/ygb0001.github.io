@@ -4,8 +4,10 @@ title: 四及备考
 categories: Blog
 description: 记录四及备考过程
 keywords: 单词，翻译，句子
----
-四及备考第一天！ 2024-10-16
+---  
+
+四及备考第一天！ 2024-10-16  
+
 ## 单词
 succeed 成功
 succeed in 成功地succeed at 擅长  
