@@ -5,7 +5,8 @@ categories: Blog
 description: 记录四及备考过程
 keywords: 单词，翻译，句子
 ---    
-四及备考第二天！ 2024-10-17
+四及备考第二天！ 2024-10-17   
+
 ## 单词
 symbol n.象征，标志，象征物  
 **sufficient adj.充分的，足够的**  
