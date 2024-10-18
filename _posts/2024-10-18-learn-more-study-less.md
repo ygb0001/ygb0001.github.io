@@ -5,7 +5,8 @@ categories: Blog
 description: 记录四及备考过程
 keywords: 单词，翻译，句子
 ---    
-四及备考第三天！ 2024-10-18
+四及备考第三天！ 2024-10-18  
+
 ## 单词
 intend v.打算，打算做，打算做什么  
 **characteristic n.特征 adj.典型的**  
