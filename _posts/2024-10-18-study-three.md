@@ -12,7 +12,7 @@ intend v.打算，打算做，打算做什么
 **characteristic n.特征 adj.典型的**  
 define v.定义，说明  
 **dissolve v.溶解**  
-acknowledge v.知道，知道，承认
+acknowledge v.知道，知道，承认  
 **illustrate v.说明，解释**  
 **debate v.辩论 n.争论**  
 **process v.进行，进行什么 n.步骤**  
