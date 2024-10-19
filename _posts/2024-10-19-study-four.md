@@ -19,4 +19,14 @@ evendence n.证据  v.证明
 reward n.报酬  
 **grip v.抓住，抓住 n.紧握**  
 **stuff n.东西 v.把...塞进，装满**  
+## 复习
+little education and poor taste 受教育少品味差  
+This is a nother example of ... 这是....的又一个例子  
+give it a new life   给....注入新的生命  
+rich and powerful landlor  有钱有势的地主  
+exploited peasants  剥削农民  
+A few years ago 几年前  
+introduce into 被引进   
+
+
 
